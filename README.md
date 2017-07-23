@@ -1,14 +1,14 @@
-# android_device_samsung_a3ulte
+# android_device_samsung_a3lte
 
-## Device tree for Samsung Galaxy A3 (2015) A300FU [a3ultexx]
+## Device tree for Samsung Galaxy A3 (2015) A300F [a3ltexx]
 
 Basic   | Spec Sheet
 -------:|:-------------------------
 CPU     | Qualcomm MSM8916 Quad-core 1.2 GHz ARM® Cortex™ A53
 CHIPSET | Qualcomm Snapdragon 410
 GPU     | Adreno 306
-Memory  | 1.5 GB
-Shipped Android Version | 4.4.4/5.0.2/6.0.1
+Memory  |  1 GB
+Shipped Android Version | 4.4.4/5.0.2
 Storage | 16 GB
 MicroSD | Up to 64 GB
 Battery | 1900 mAh (non-removable)
